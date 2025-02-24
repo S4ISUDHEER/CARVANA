@@ -38,4 +38,4 @@ o	The developed model could be deployed to automatically flag cars that might be
 4.	Integration of Customer Feedback:
 o	Integrating customer feedback on car quality could be a useful feature to enhance the model over time. As users report defects or provide reviews, this data could be incorporated into the model to improve its predictions.
 
-![image](https://github.com/user-attachments/assets/9b7d4a15-cfed-4aa7-9c8c-02ab2e1aec65)
+
