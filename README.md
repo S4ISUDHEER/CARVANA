@@ -1,5 +1,6 @@
 CARVANA 
-What I Did:
+![image](https://github.com/user-attachments/assets/d0c659c3-3d3e-41c1-aa2e-690232d6ede1)
+
 In this project, I developed a machine learning algorithm to predict whether used cars listed in Carvana’s inventory were "bad buys" or "good buys". The dataset, consisting of 72,983 cars, contained 34 descriptive features that detailed various aspects of the cars, such as their make, model, condition, and more. The goal was to predict whether a car would be a bad buy (defective) or a good buy based on the provided features.
 Key steps I took:
 1.	Data Exploration and Preprocessing:
